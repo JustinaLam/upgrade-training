@@ -18,3 +18,4 @@ Wesley Yee, Programming, Music, Art, Writing
 Kaan Erdogmus, Programming, Music, Writing, Art
 Faye Zhang, Writing, Art, Programming, Music
 Nick Liu, Programming, Music, Writing, Art
+Longteng Huang, Programming, Art, Music, Writing
