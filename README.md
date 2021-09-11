@@ -2,6 +2,7 @@
 Name, First, Second, Third, Fourth
 
 Philip Kaw, Programming, Writing, Music, Art
+Rain Yan, Programming, Art, Writing, Music
 Alex Kalbach, Programming, Music, Art, Writing
 Ruth Chung, Art, Writing, Programming, Music
 Logan Cho, Programming, Art, Writing, Music
