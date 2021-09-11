@@ -1,6 +1,7 @@
 # upgrade-training
 Name, First, Second, Third, Fourth
 
+Kevin Zhao, Music, Writing, Programming, Art
 Nicole Chau, Programming, Art, Writing, Music
 Philip Kaw, Programming, Writing, Music, Art
 Alex Kalbach, Programming, Music, Art, Writing
