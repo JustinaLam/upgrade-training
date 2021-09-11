@@ -1,2 +1,3 @@
 # upgrade-training
-George Wang, Art, Writing, Music, Programming
+Name, First, Second, Third, Fourth
+George Wang: Art, Writing, Music, Programming
