@@ -7,6 +7,7 @@ Ziwen Hou, Programming, Writing, Music
 Kevin Zhao, Music, Writing, Programming, Art
 Nicole Chau, Programming, Art, Writing, Music
 Philip Kaw, Programming, Writing, Music, Art
+Rain Yan, Programming, Art, Writing, Music
 Alex Kalbach, Programming, Music, Art, Writing
 Ruth Chung, Art, Writing, Programming, Music
 Logan Cho, Programming, Art, Writing, Music
