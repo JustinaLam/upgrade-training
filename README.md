@@ -22,7 +22,7 @@ James Ciardullo, Programming, Writing, Music, Art
 Wesley Yee, Programming, Music, Art, Writing
 Kaan Erdogmus, Programming, Music, Writing, Art
 Faye Zhang, Writing, Art, Programming, Music
-George Wang: Art, Writing, Music, Programming
+George Wang, Art, Writing, Music, Programming
 Thomas Shaw, Programming, Art, Music, Writing
 Nick Liu, Programming, Music, Writing, Art
 Aditya Singh, Programming, Writing, Music, Art
