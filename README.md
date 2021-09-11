@@ -25,6 +25,7 @@ Faye Zhang, Writing, Art, Programming, Music
 George Wang, Art, Writing, Music, Programming
 Thomas Shaw, Programming, Art, Music, Writing
 Nick Liu, Programming, Music, Writing, Art
+Longteng Huang, Programming, Art, Music, Writing
 Aditya Singh, Programming, Writing, Music, Art
 Lennart Meincke, Programming, Writing, Art, Music
 Ioannis Kalaitzidis, Programming, Art, Writing, Music
