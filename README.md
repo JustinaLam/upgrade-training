@@ -1,11 +1,14 @@
 # upgrade-training
 Name, FIRST, SECOND, THIRD, FOURTH
 Vivian Tung, Art, Programming, Writing, Music
+Denise Faria, Programming, Art, Writing, Music
+Ry Nankivel, Art, Writing, Music, Programming
 Praneel Chakraborty, Programming, Art, Writing, Music
 Ziwen Hou, Programming, Writing, Music
 Kevin Zhao, Music, Writing, Programming, Art
 Nicole Chau, Programming, Art, Writing, Music
 Philip Kaw, Programming, Writing, Music, Art
+Rain Yan, Programming, Art, Writing, Music
 Alex Kalbach, Programming, Music, Art, Writing
 Ruth Chung, Art, Writing, Programming, Music
 Logan Cho, Programming, Art, Writing, Music
@@ -33,3 +36,4 @@ Lennart Meincke, Programming, Writing, Art, Music
 Ioannis Kalaitzidis, Programming, Art, Writing, Music
 Henry Chen, Programming, Writing, Art, Music
 Julian Greenawalt, Programming, Music, Writing, Art
+
