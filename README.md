@@ -1,2 +1,3 @@
 # upgrade-training
-Ben Chrepta, Music, Programming, Writing, Art
+Name, FIRST, SECOND, THIRD, FOURTH
+Vivian Tung, Art, Programming, Writing, Music
