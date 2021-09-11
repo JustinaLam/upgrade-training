@@ -1,2 +1,2 @@
 # upgrade-training
-Name, First, Second, Third, Fourth
+Christopher Yu, Programming, Music, Art, Writing
