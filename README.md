@@ -1,6 +1,8 @@
 # upgrade-training
 Name, First, Second, Third, Fourth
 
+
+Denise Faria, Programming, Art, Writing, Music
 Ry Nankivel, Art, Writing, Music, Programming
 Praneel Chakraborty, Programming, Art, Writing, Music
 Ziwen Hou, Programming, Writing, Music
@@ -35,3 +37,4 @@ Lennart Meincke, Programming, Writing, Art, Music
 Ioannis Kalaitzidis, Programming, Art, Writing, Music
 Henry Chen, Programming, Writing, Art, Music
 Julian Greenawalt, Programming, Music, Writing, Art
+
