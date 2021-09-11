@@ -1,7 +1,6 @@
 # upgrade-training
-Name, First, Second, Third, Fourth
-
-
+Name, FIRST, SECOND, THIRD, FOURTH
+Vivian Tung, Art, Programming, Writing, Music
 Denise Faria, Programming, Art, Writing, Music
 Ry Nankivel, Art, Writing, Music, Programming
 Praneel Chakraborty, Programming, Art, Writing, Music
