@@ -1,5 +1,7 @@
 # upgrade-training
 Name, First, Second, Third, Fourth
+
+Ry Nankivel, Art, Writing, Music, Programming
 Praneel Chakraborty, Programming, Art, Writing, Music
 Ziwen Hou, Programming, Writing, Music
 Kevin Zhao, Music, Writing, Programming, Art
