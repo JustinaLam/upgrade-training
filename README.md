@@ -25,3 +25,4 @@ Nick Liu, Programming, Music, Writing, Art
 Aditya Singh, Programming, Writing, Music, Art
 Lennart Meincke, Programming, Writing, Art, Music
 Ioannis Kalaitzidis, Programming, Art, Writing, Music
+Henry Chen, Programming, Writing, Art, Music
