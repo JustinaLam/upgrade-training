@@ -1,6 +1,7 @@
 # upgrade-training
 
 Name, First, Second, Third, Fourth
+
 Alex Kalbach, Programming, Music, Art, Writing
 Ruth Chung, Art, Writing, Programming, Music
 Logan Cho, Programming, Art, Writing, Music
@@ -17,4 +18,5 @@ Meggie Cheng, Art, Programming, Writing, Music
 Wesley Yee, Programming, Music, Art, Writing
 Kaan Erdogmus, Programming, Music, Writing, Art
 Faye Zhang, Writing, Art, Programming, Music
+Thomas Shaw, Programming, Art, Music, Writing
 Nick Liu, Programming, Music, Writing, Art
