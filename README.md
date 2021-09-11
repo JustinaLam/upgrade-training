@@ -1,2 +1,2 @@
 # upgrade-training
-George Wang: Art, Writing, Music, Programming
+George Wang, Art, Writing, Music, Programming
