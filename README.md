@@ -1,2 +1,2 @@
 # upgrade-training
-Ben Chrepta, Music, Programming, Writing, Art
+Julian Greenawalt, Programming, Music, Writing, Art
