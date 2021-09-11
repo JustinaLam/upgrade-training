@@ -1,2 +1,2 @@
 # upgrade-training
-Kevin Zhao, Music, Writing, Programming, Art
+Name, First, Second, Third, Fourth
