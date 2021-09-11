@@ -1,2 +1,2 @@
 # upgrade-training
-Name, First, Second, Third, Fourth
+Nick Liu, Programming, Music, Writing, Art
