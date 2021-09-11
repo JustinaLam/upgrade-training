@@ -7,3 +7,5 @@ Elyssa Cho, Programming, Art, Writing, Music
 Taurean Butler, Art, Writing, Programming, Music
 Jason Hom, Programming, Art, Writing, Music
 Erica Park, Programming, Art, Writing, Music
+Edward Zhang, Art, Programming, Writing, Music
+Di Lu, Programming, Art, Music, Writing
